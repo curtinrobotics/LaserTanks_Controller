@@ -7,8 +7,9 @@
 # PRODUCT PAGE/DOCUMENTATION
 - https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-devkitc.html
 # FEATURES
-- ???
+- Built in wireless communication
+- Microcontroller
 # USE
-- Wireless communication from the controller to the robot
+- Wireless communication microcontroller from the controller to the robot
 # TODO
 - Convert current micro + ESP015 code to work with ESP32-DevKitC V4
